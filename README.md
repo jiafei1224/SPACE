@@ -1,7 +1,7 @@
 # SPACE: A Simulator for Physical Interactions and Causal Learning in 3D Environments
 
 ## SPACE Simulator 
-Run the Blender Code for each of the physical interactions tasks from the file using the Blender Python API.
+Run the Blender Code for each of the physical interactions tasks from the file using the Blender Python API. Please ensure that the object files is in the same file directory as the `.blend` file.
 
 ## SPACE Dataset
 Download the respective dataset along with the annotation from here: 
