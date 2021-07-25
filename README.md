@@ -16,7 +16,18 @@ Download the respective dataset along with the annotation from here:
 
 You may download down and put it into your own drive,then you can `gdown <Drive Url to upload to server>` 
 
-For evaluation results via PhyDNet, please view the PhyDNet_Add_On for instruction
+## Dataset Statistics
+Dataset statistics are obtained from running `python ./util/get_stats.py`.
+
+## System Requirements
+- Blender 2.83 with eevee engine
+- **Python 3.6**
+- External Python libraries in `PhyDNet_Add_On/requirement.txt`
+
+## Creating Images from Data
+Run `./util/replay_and_save_frames.py` file using frames from `./dataset/contact/video` and save it to `./dataset/contactframes`.
+
+## For evaluation results via PhyDNet, please view the PhyDNet_Add_On for instruction
 
 
 
