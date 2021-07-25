@@ -2,6 +2,8 @@
 
 `-git clone` [[PhyDNet repo]](https://github.com/vincent-leguen/PhyDNet) 
 
+`-pip install -r requirements.txt`
+
 Replace the `main.py` and add in the `config.yml` into the same directory
 
 Replace the `data` folder from the original PhyDNet with the `data` folder from this repo. 
