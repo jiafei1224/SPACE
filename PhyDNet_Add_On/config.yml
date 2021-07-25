@@ -1,0 +1,17 @@
+task_type: 'stable'
+train_frame_path: ""
+val_frame_path: ""
+train_val_test_splits: [0.6, 0.2, 0.2]
+# save_path: "experiments"
+save_frames_every: 10
+save_name: "phydnet"
+max_frames: 50
+load_model_path: ""
+
+# hyperparameters
+num_epoch: 30
+batch_size: 2
+teacher_forcing_prob: 0.7
+first_n_frame_dynamics: 5
+frame_interval: 1
+learning_rate: 0.0001
