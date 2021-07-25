@@ -6,20 +6,13 @@ Code for our CVPR 2020 paper "Disentangling Physical Dynamics from Unknown Facto
 
 ## Instruction
 
-`git clone` [PhyDNet repo]{https://github.com/vincent-leguen/PhyDNet}
+`-git clone` [[PhyDNet repo]](https://github.com/vincent-leguen/PhyDNet) 
 
+Replace the `main.py` and add in the `config.yml` into the same directory
 
-## Code
+Replace the `data` folder from the original PhyDNet with the `data` folder from this repo. 
 
-In main.py, there is an example on how to run PhyDNet on the Moving MNIST dataset.
+Set the parameters in the `config.yml`
 
-If you find this code useful for your research, please cite our [paper](https://papers.nips.cc/paper/8672-shape-and-time-distortion-loss-for-training-deep-time-series-forecasting-models):
+`-python main.py --config_file config.yml-`
 
-```
-@incollection{leguen20phydnet,
-title = {Disentangling Physical Dynamics from Unknown Factors for Unsupervised Video Prediction},
-author = {Le Guen, Vincent and Thome, Nicolas},
-booktitle = {Computer Vision and Pattern Recognition (CVPR)},
-year = {2020}
-}
-```
