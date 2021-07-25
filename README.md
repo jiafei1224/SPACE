@@ -25,7 +25,7 @@ Dataset statistics are obtained from running `python ./util/get_stats.py`.
 - External Python libraries in `PhyDNet_Add_On/requirement.txt`
 
 ## Creating Images from Data
-Run `./util/Convert_Video_to_Frames.py` file using frames from `./dataset/contact/video` and save it to `./dataset/contactframes`.
+Run `./util/Convert_Video_to_Frames.py` file using frames from `./Datasets/containment/video` and save it to `./Datasets/containment/contactframes`.
 
 ## For evaluation results via PhyDNet, please view the PhyDNet_Add_On for instruction
 
