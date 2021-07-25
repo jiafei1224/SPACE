@@ -16,5 +16,7 @@ Download the respective dataset along with the annotation from here:
 
 You may download down and put it into your own drive,then you can `gdown <Drive Url to upload to server>` 
 
+For evaluation results via PhyDNet, please view the PhyDNet_Add_On for instruction
+
 
 
