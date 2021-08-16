@@ -1,6 +1,6 @@
 ## Modified PhyDNet Instruction
 
-Get original code: `git clone` [[PhyDNet repo]](https://github.com/vincent-leguen/PhyDNet) 
+Get original code: `git clone` [[PhyDNet repo]](https://github.com/jiafei1224/PhyDNet) 
 
 Install requirements: `pip install -r requirements.txt`
 
