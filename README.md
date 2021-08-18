@@ -2,7 +2,8 @@
 
 ![newsetup (1)](https://user-images.githubusercontent.com/51585075/126741271-45b0f2df-03ef-49c1-aab9-ad6bc505a1e7.jpg)
 
-##Paper
+# Paper
+
 [[ArXiv]](https://arxiv.org/abs/2108.06180) 
 
 ## SPACE Simulator 
