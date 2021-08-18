@@ -34,4 +34,15 @@ Run `./util/Convert_Video_to_Frames.py` file using frames from `./Datasets/conta
 ## For evaluation results via PhyDNet, please view the PhyDNet_Add_On for instruction
 
 
+## If you use SPACE, please cite the our paper:
+
+
+    @inproceedings{Jiafei2021SPACEAS,
+      title={SPACE: A Simulator for Physical Interactions and Causal Learning in 3D Environments},
+      author={Duan Jiafei and Samson Yu Bai Jian and Cheston Tan},
+      year={2021}
+    }
+
+
+
 
