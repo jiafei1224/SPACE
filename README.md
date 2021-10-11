@@ -37,9 +37,11 @@ Run `./util/Convert_Video_to_Frames.py` file using frames from `./Datasets/conta
 ## If you use SPACE, please cite the our paper:
 
 
-    @inproceedings{Jiafei2021SPACEAS,
+    @inproceedings{duan2021space,
       title={SPACE: A Simulator for Physical Interactions and Causal Learning in 3D Environments},
-      author={Duan Jiafei and Samson Yu Bai Jian and Cheston Tan},
+      author={Duan, Jiafei and Yu, Samson and Tan, Cheston},
+      booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision},
+      pages={2058--2063},
       year={2021}
     }
 
